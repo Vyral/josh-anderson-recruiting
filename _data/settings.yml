@@ -19,12 +19,12 @@ client:
   brand: The Anderson Group Real Estate Services
   brokerage: Keller Williams
   address: 2313 21st Avenue South<br>Nashville, TN 37212
-  phone: 615-425-3600
+  phone: 615-823-1555
   phone_type:
   phone2:
   phone2_type:
-  email: josh@joshandersonrealestate.com
-  url: https://joshandersonrealestate.com
+  email: Josh@JoshAndersonRealEstate.com
+  url: https://JoshAndersonRealEstate.com
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
