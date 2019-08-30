@@ -14,40 +14,53 @@ permalink: /join-our-team/
 <figcaption class="caption">{{site.data.settings.client.name}}</figcaption>
 </div>
 
+<p>Dear Real Estate Agent:</p>
 
-<p>Dear Real Estate Agent,</p>
+<p>I understand that you may be interested in a career in real estate or are an experienced agent. Perhaps you’ve been in the industry for a couple of years and have been successful thus far, but you find yourself lacking the kind of consistency, income, and support you desire.</p>
 
-<p>Are you frustrated with where you’re at in your real estate business?</p>
+<p>For some people, this can be painful. In fact, a lack of sufficient training, education, and accountability lead to many agents leaving the industry altogether. There’s lots of misinformation out there, especially for new agents. <strong>Studies show that 87% of agents actually leave real estate within the first two years of getting their license.</strong></p>
 
-<p>I’d like to offer you a free subscription to my real estate agent training e-newsletter. You’ll receive:
+<p>Agents like this run out of money, get distracted, and fall flat in their career due to a lack of support and a lack of proper guidance.</p>
+
+<p>This leads to a lot of uncertainty and stress. People have no idea whether they will see another paycheck after their next contract. And of the insufficient and inconsistent income they may be producing now, how much of it is going right back into paying for marketing expenses and other costs not covered by their brokerage? Ultimately, these agents are miserable and constantly riding the real estate rollercoaster.</p>
+
+<p>The truth is, some agents just aren’t prepared for the industry. They develop bad habits that end up killing their career. On my team, we ensure that our agents are given the tools, systems, training, and support they need to be successful and reach their goals. We hold our agents accountable. When we see potential in an agent, we expect that agent to use it.</p>
+
+<p>I’m Josh Anderson and I’ve gone through all of this. I’ve made all the mistakes, spent all the money, and at the end of the day, I eventually created systems and processes that work in this industry. My junior agent program teaches new agents what they need to learn from the people who know what it takes to succeed.</p>
+
+<p><strong>No other team in Nashville is able to provide for their agents at the level we do.</strong> We offer help in the form of:
 <ul class="indent">
-<li>Q&A videos answering the most commonly asked business questions</li>
-<li>Interviews with agents in my office on what they are doing to sell homes</li>
-<li>Replays of trainings and meetings we hold, that are recorded, so you can attend 24/7</li>
-<li>Invites to special events with guest speakers that include exclusive discount codes</li>
-<li>Copies of procedure manuals, checklists, and more we use to streamline operations</li>
-<li>Market updates we publish that you can copy and paste to use in your marketing</li>
+<li>High-quality scripts</li>
+<li>Lead generation</li>
+<li>Database management</li>
+<li>Knowing your numbers</li>
+<li>Knowing how to create and stick to a daily schedule with time blocking</li>
 </ul></p>
 
-<p>This newsletter is specifically for real estate agents who want to grow, learn, and want to dominate their market with a local brand and expert presence. If you want to improve yourself, make more money and you feel you can do more and just need the tools, this is for you. This is not for part-time agents who are happy with their income.</p>
+<p>We give our agents every opportunity to learn, grow, take on leads, and, ultimately, close transactions. We teach our agents how to love their career and make money without giving away their lives. Our agents can make six figures while also maintaining the all-important work-life balance.</p>
 
-<p>This is 100% educational advice. I’d like you to get to know what we’re up to here so we can grow the size of the real estate pie in {{site.data.settings.client.market}}. In the past year, ____ homes SOLD in our {{site.data.settings.client.market}} market, so there is plenty of business to go around.</p>
 
-<p>SPECIAL NEW SUBSCRIBER BONUS</p>
+<p>In short, you could continue at your current pace — making inconsistent income, paying for your own marketing and advertising expenses, and having little freedom in your life and career. You could also simply quit and take on a 9-to-5 job where you have no flexibility and no fun. Or, you could take the first step on the road to success and join my team.</p>
 
-<p>When you subscribe, you’ll also receive a free copy of my Office Tour DVD so you can see how our office is set up, who does what, and what’s it like to work in a productive real estate office. We collectively sell about _____ homes every year.</p>
+<p>Once you join us, the work starts right away. Our onboarding process will include:
+<ul class="indent">
+<li>Extensive training</li>
+<li>Creating your database</li>
+<li>Meeting with the Director of Operations</li>
+<li>Learning all of the team roles</li>
+<li>Going on listing appointments</li>
+<li>First-hand training and mentorship</li>
+</ul></p>
 
-<p>Feel free to unsubscribe anytime. We will never, ever, ever spam you.</p>
+<p>Don’t just take my word for it. Stefanie has been on our team for nine years. She started out as a showing specialist, but has since become our lead buyer’s agent and is making very good money. For the last five years, she’s made between $175,000 and $275,000 per year.</p>
 
-<p>The next step, after subscribing to our newsletter, is to attend one of our many Business Planning Workshops we hold from time to time, with the opportunity to schedule a free business planning meeting where we’ll personalize the plan for you.</p>
+<p>Caroline started as an ISA with us seven years ago. In her first year, she made $24,000, but last year she made $280,000. She’s increased her salary tenfold in just six years.</p>
 
-<p>I invite you to subscribe below. Simply enter your email address and you’ll get a confirmation email with a copy of my Office Tour DVD.</p>
+<p><strong>Now is the time to turn around your life and career.</strong> If you are a motivated individual who wants to learn all the necessary systems and processes to build a successful real estate business, please apply today.</p>
 
-<p>Email me at <a href="mailto:{{site.data.settings.client.email}}">{{site.data.settings.client.email}}</a>  with any questions I can answer for you in my videos. If I pick your question and answer it in the newsletter, I’ll send you a $5 Amazon gift card!</p>
+<p>I look forward to talking with you soon.</p>
 
-<p>Let’s help you grow your business.</p>
-
-<p>{{site.data.settings.client.name}}</p>
+<p>Josh Anderson</p>
 
 
 
