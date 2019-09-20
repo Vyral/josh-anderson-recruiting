@@ -2620,7 +2620,7 @@ form select {
   margin-top: -20px; }
 
 .recruiting {
-  text-align: center; }
+  text-align: left; }
 
 #recruit {
   width: 85%;
@@ -2693,6 +2693,19 @@ form select {
   width: 75%;
   display: block;
   margin: 0 auto 2rem auto; }
+
+.business {
+  font-weight: bold;
+  text-align: left;
+  width: 75%;
+  display: block; }
+
+.business-subtitle {
+  font-weight: 400;
+  text-align: left;
+  width: 75%;
+  display: block;
+  margin-bottom: 2rem; }
 
 .mySlides img {
   display: block;
