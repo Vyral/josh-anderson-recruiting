@@ -42,13 +42,13 @@ permalink: /strategy-call/
 <span class="author">- Bestune Bekhtyar. Real Estate Consultant</span></p>
 
 <p><span class="quote">"Josh's Training has helped me take my business to the next level, and I am so grateful"</span><br>
-<span class="author">- Caroline Rosenberg</span></p>
+<span class="author">- Caroline Rosenberg. Real Estate Consultant</span></p>
 
 <p><span class="quote">"Nashville is one of the hottest real estate markets in the country.  The Anderson Group not only trained me on basic real estate knowledge, but even more important- they taught me how to succeed by winning not just clients, but offers in such a competitive market.
 It takes more than what you see on HGTV to become a real estate agent.  The Anderson Group trained me on the “not-so-glamorous” side of real estate industry that ultimately lead me to being a top agent in the greater Nashville area. With the mentorship, hands on training and support of senior members, my success has skyrocketed.
 Did you know that 90% of homes in Middle Tennessee are sold by only 5% of real estate agents in Middle Tennessee?** The Anderson Group has trained me to be one of those agents in the top 5%.  Their attentiveness, hands on learning and elite training system has taken my business to levels I could not have imagined.
 "</span><br>
-<span class="author">- Stefanie Schmitz Ainslie</span></p>
+<span class="author">- Stefanie Schmitz Ainslie. Real Estate Consultant</span></p>
 </div>
 <hr>
 
