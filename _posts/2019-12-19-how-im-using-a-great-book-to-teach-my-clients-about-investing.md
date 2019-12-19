@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How I’m Using a Great Book to Teach My Clients About Investing
-date:
+date: 2019-12-19 19:33:18
 tags:
 excerpt: >-
   I believe that we leave transactions on the table each year by not educating
