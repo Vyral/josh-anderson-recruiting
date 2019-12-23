@@ -12,8 +12,8 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
-youtube_code: 5B2P7zz0f84
+youtube_alternate_image: /uploads/anderson-youtube-2.jpg
+youtube_code: UUdtb4KlUcs
 ---
 
 {% include youtube.html %}
