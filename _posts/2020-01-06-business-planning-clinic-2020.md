@@ -4,8 +4,8 @@ title: Business Planning Clinic 2020
 date: 2020-01-06 15:36:00
 tags:
 excerpt: >-
-  You’re invited to attend Focus Day 2020, where we’ll walk you through the
-  steps you need to take to set yourself up for success in 2020.
+  You’re invited to attend Business Planning Clinic 2020, where we’ll walk you
+  through the steps you need to take to set yourself up for success in 2020.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
