@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Entrepreneur Way
-date: 2020-02-06 20:46:47
+date: 2019-06-14 20:46:00
 tags:
 excerpt: The Entrepreneur Way
 enclosure:
