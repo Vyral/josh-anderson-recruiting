@@ -3,7 +3,7 @@ layout: post
 title: 'Josh Anderson on Show #108: Integration as the Secret to Success'
 date: 2019-04-16 20:40:00
 tags:
-excerpt:
+excerpt: 'Josh Anderson on Show #108: Integration as the Secret to Success'
 enclosure:
 pullquote:
 enclosure_type: video/mp4
