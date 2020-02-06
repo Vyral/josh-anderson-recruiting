@@ -1,9 +1,8 @@
 ---
 layout: post
 title: 'Josh Anderson on Show #108: Integration as the Secret to Success'
-date: 2020-02-06 20:40:30
+date: 2020-04-16 20:40:00
 tags:
-  - Anderson Podcast
 excerpt:
 enclosure:
 pullquote:
