@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://localhost:4000/introducing-our-new-real-estate-business-series.html</loc>
+<lastmod>2019-01-20T18:00:00-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/josh-anderson-on-show-108-integration-as-the-secret-to-success.html</loc>
+<lastmod>2019-04-16T15:40:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/the-entrepreneur-way.html</loc>
+<lastmod>2019-06-14T15:46:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/josh-andersons-journey.html</loc>
+<lastmod>2019-12-19T08:00:00-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/how-im-using-a-great-book-to-teach-my-clients-about-investing.html</loc>
+<lastmod>2019-12-19T13:33:00-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/business-planning-clinic-2020.html</loc>
+<lastmod>2020-01-06T09:36:00-06:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/about/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/contact/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/featured-podcasts/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/homesearch/</loc>

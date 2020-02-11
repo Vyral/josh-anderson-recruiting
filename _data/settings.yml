@@ -11,6 +11,8 @@ custom_links:
     url: /strategy-call/
   - title: Free Newsletter
     url: /subscribe/
+  - title: Featured Podcasts
+    url: /featured-podcasts/
 client:
   name: Josh Anderson
   title:
