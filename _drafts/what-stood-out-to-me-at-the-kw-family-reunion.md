@@ -15,7 +15,7 @@ youtube_alternate_image: /uploads/anderson-youtube-11.jpg
 youtube_code: Clws0LMqzzw
 ---
 
-{% include youtube.html %} I just got back from the KW Family Reunion, so I’m sharing the best takeaways that stuck with me.
+{% include youtube.html %}<center>I just got back from the KW Family Reunion, so I’m sharing the best takeaways that stuck with me.</center>
 
 I just got back from the KW family reunion, and I heard a lot of insightful thoughts from many smart people. **Today I’m going to quickly run through the top things that I took away from the event:**
 
