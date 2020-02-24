@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Stood Out to Me at the KW Family Reunion
-date:
+date: 2020-02-24 20:29:41
 tags:
 excerpt: >-
   I just got back from the KW Family Reunion, so I’m sharing the best takeaways
@@ -15,7 +15,11 @@ youtube_alternate_image: /uploads/anderson-youtube-11.jpg
 youtube_code: Clws0LMqzzw
 ---
 
-{% include youtube.html %}<center>I just got back from the KW Family Reunion, so I’m sharing the best takeaways that stuck with me.</center>
+{% include youtube.html %}
+
+<center>I just got back from the KW Family Reunion, so I&rsquo;m sharing the best takeaways that stuck with me.</center>
+
+&nbsp;
 
 I just got back from the KW family reunion, and I heard a lot of insightful thoughts from many smart people. **Today I’m going to quickly run through the top things that I took away from the event:**
 
