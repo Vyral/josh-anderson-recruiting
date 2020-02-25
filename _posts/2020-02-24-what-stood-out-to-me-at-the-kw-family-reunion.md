@@ -17,15 +17,15 @@ youtube_code: Clws0LMqzzw
 
 {% include youtube.html %}
 
-<center>I just got back from the KW Family Reunion, so I&rsquo;m sharing the best takeaways that stuck with me.</center>
+<center>I just got back from the KW Family Reunion, so I&rsquo;m sharing the key points that stuck with me.</center>
 
 &nbsp;
 
-I just got back from the KW family reunion, and I heard a lot of insightful thoughts from many smart people. **Today I’m going to quickly run through the top things that I took away from the event:**
+I just got back from the KW Family Reunion, and I heard a lot of insightful thoughts from many smart people. **Today I’m going to quickly run through the top things that I took away from the event:**
 
 1\. The people that we need to build big, successful businesses are already in our database. The opportunity for growth is right there, so stop trying to reach for shiny objects and focus on your database. It all comes back to your database.
 
-2\. Focus on the people who matter. Have your ISA’s set appointments where you can plug anyone into the system.
+2\. Focus on the people who matter. Have your ISAs set appointments where you can plug anyone into the system.
 
 3\. When you hire an underperformer, you’ve sold out everyone else on your team. If someone does underperform, you need to be the one setting the agenda for what we talk about at your weekly meetings.
 
@@ -33,7 +33,7 @@ I just got back from the KW family reunion, and I heard a lot of insightful thou
 
 5\. Stop trying to create opportunities for everyone in your world, because it’s exhausting. The talent will bring opportunities, and it’s your job to support it.
 
-**In summary, make sure you’re seeing goals, creating plans to hire people, and holding people accountable to their plans and goals.** Inspect what you expect and when people start missing goals, don’t turn a blind eye. Jump in and either help them grow, or let them go.&nbsp;
+**In summary, make sure you’re seeing goals, creating plans to hire people, and holding people accountable to their plans and goals.** Inspect what you expect and when people start missing goals, don’t turn a blind eye. Jump in and either help them grow or let them go.&nbsp;
 
 {% include pullquote.html %}
 
