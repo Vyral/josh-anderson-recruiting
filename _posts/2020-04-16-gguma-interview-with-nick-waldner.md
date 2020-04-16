@@ -8,7 +8,7 @@ enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/4-16-josh-anderson-gguma.jpg
 youtube_code: '-KB1vVpf6sM'
 ---
