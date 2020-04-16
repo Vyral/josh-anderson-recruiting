@@ -3,6 +3,7 @@ layout: post
 title: GGUMA Interview With Nick Waldner
 date: 2020-04-16 00:00:00
 tags:
+  - Transaction Management
 excerpt:
 enclosure:
 pullquote:
