@@ -13,6 +13,7 @@ enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/anderson-youtube-6.jpg
 youtube_code: dSJDxxP30qQ
+hidden: false
 ---
 
 {% include youtube.html %}

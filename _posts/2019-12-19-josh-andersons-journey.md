@@ -11,6 +11,7 @@ enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
 youtube_code: cTutQkahNF8
+hidden: false
 ---
 
 Hear how Josh Anderson started his real estate journey, his tips for success, and his vision for the future with The Anderson Group Real Estate.
