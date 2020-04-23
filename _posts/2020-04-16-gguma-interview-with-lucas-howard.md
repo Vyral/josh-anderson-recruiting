@@ -4,7 +4,7 @@ title: GGUMA Interview with Lucas Howard
 date: 2020-04-16 00:00:00
 tags:
   - Reviews and Referrals
-excerpt:
+excerpt: Check out our interview with Lucas Howard of the Lucas Howard Group!
 enclosure:
 pullquote:
 enclosure_type: video/mp4
