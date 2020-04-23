@@ -4,7 +4,7 @@ title: Training Call with Paul Teller and Josh Anderson
 date: 2020-04-18 00:00:00
 tags:
   - Reviews and Referrals
-excerpt:
+excerpt: Check out our training call with Paul Teller!
 enclosure:
 pullquote:
 enclosure_type: video/mp4
