@@ -5,7 +5,8 @@ date: 2020-04-17 00:00:00
 tags:
   - Reviews and Referrals
 excerpt: Check out our interview with Lucas Howard of the Lucas Howard Group!
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Josh+Anderson/Videos/Recruiting/2020/GGUMA+Interview+with+Lucas+Howard.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
