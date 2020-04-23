@@ -5,7 +5,8 @@ date: 2020-04-16 00:00:00
 tags:
   - Reviews and Referrals
 excerpt: Check out our interview with Nick Waldner of the Waldner Winters Team!
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Josh+Anderson/Videos/Recruiting/2020/GGUMA+Interview+With+Nick+Waldner.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
