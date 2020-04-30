@@ -1,88 +1,195 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>-- MARKET -- Real Estate Video Blog with -- CLIENT NAME --</title>
-    <description>Our mission at  is to be your best resource for  real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The , your professional  Real Estate Agents.</description>
+    <title>Nashville's Best Real Estate Training - Josh Anderson</title>
+    <description>Josh Anderson, a top Real Estate Agent in Nashville, shares his own internal real estate agent training for free. His Real Estate Training, Tips and Advice will help you sell more homes in less time.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 25 Jul 2019 13:19:38 -0500</pubDate>
-    <lastBuildDate>Thu, 25 Jul 2019 13:19:38 -0500</lastBuildDate>
+    <pubDate>Thu, 30 Apr 2020 14:19:50 -0500</pubDate>
+    <lastBuildDate>Thu, 30 Apr 2020 14:19:50 -0500</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
     
       <item>
-        <title>this is a test post</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/SFFy_drFrZs?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+        <title>GGUMA interview with Haro Setian</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/QHYPv6k6Sec?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps &lt;strong&gt;gastropub marfa r&lt;/strong&gt;etro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.&lt;/p&gt;
+&lt;p&gt;Check out my interview with Haro Setian of The Haro Group!&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Bushwick&lt;/em&gt; &lt;a href=&quot;'http://google.com'&quot;&gt;marfa&lt;/a&gt; wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. &lt;a href=&quot;http://google.com&quot;&gt;Fanny&lt;/a&gt; pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;/homevalue/&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/img/home-value.jpg&quot; class=&quot;post-image&quot; alt=&quot;Home Valuation&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=This is an example of a pull quote%20http://localhost:4000/this-is-a-test-post-copy-2.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“This is an example of a pull quote”&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.&lt;/p&gt;
-
-&lt;p&gt;Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…&lt;/p&gt;
+&lt;p&gt;&lt;u&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://www.theresnoplacelikegreenville.com/&quot;&gt;Visit The Haro Group's website here&lt;/a&gt;&lt;/u&gt;!&lt;/p&gt;
 </description>
-        <pubDate>Thu, 10 May 2018 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/this-is-a-test-post-copy-2.html</link>
-        <guid isPermaLink="true">http://localhost:4000/this-is-a-test-post-copy-2.html</guid>
-        
-        <category>Market Update</category>
-        
-        <category>Real Estate</category>
-        
-        <category>Home Seller Tips</category>
+        <pubDate>Tue, 28 Apr 2020 19:00:00 -0500</pubDate>
+        <link>http://localhost:4000/gguma-interview-with-haro-setian.html</link>
+        <guid isPermaLink="true">http://localhost:4000/gguma-interview-with-haro-setian.html</guid>
         
         
       </item>
     
       <item>
-        <title>A Fox in Space</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/SFFy_drFrZs?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+        <title>Training Call with Paul Teller and Josh Anderson</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/43hJ8IakJjQ?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps &lt;strong&gt;&lt;a href=&quot;http://google.com&quot; target=&quot;_blank&quot;&gt;gastropub&lt;/a&gt; marfa r&lt;/strong&gt;etro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.&lt;/p&gt;
+&lt;p&gt;Check out our training call with Paul Teller!&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Bushwick&lt;/em&gt; &lt;a href=&quot;'http://google.com'&quot; target=&quot;_blank&quot;&gt;marfa&lt;/a&gt; wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;/homesearch/&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/img/home-search.jpg&quot; class=&quot;post-image&quot; alt=&quot;Home Search&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-  &lt;li&gt;list item&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=This is an example of a pull quote%20http://localhost:4000/a-fox-in-space.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“This is an example of a pull quote”&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.&lt;/p&gt;
-
-&lt;p&gt;Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…&lt;/p&gt;
+&lt;p&gt;&lt;u&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://www.facebook.com/teamtellernashville&quot;&gt;Visit Team Teller's Facebook page here&lt;/a&gt;&lt;/u&gt;!&lt;/p&gt;
 </description>
-        <pubDate>Mon, 07 May 2018 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/a-fox-in-space.html</link>
-        <guid isPermaLink="true">http://localhost:4000/a-fox-in-space.html</guid>
+        <pubDate>Fri, 17 Apr 2020 19:00:00 -0500</pubDate>
+        <link>http://localhost:4000/training-call-with-paul-teller-and-josh-anderson.html</link>
+        <guid isPermaLink="true">http://localhost:4000/training-call-with-paul-teller-and-josh-anderson.html</guid>
         
-        <category>Market Update</category>
+        <category>Reviews and Referrals</category>
         
-        <category>Real Estate</category>
         
-        <category>Home Seller Tips</category>
+      </item>
+    
+      <item>
+        <title>GGUMA Interview with Lucas Howard</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/tkNLEzm-Qxs?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Check out our interview with Lucas Howard of the Lucas Howard Group!&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://www.lucashowardgroup.com&quot;&gt;Visit the Lucas Howard Group's website here&lt;/a&gt;&lt;/u&gt;!&lt;/p&gt;
+</description>
+        <pubDate>Thu, 16 Apr 2020 19:00:00 -0500</pubDate>
+        <link>http://localhost:4000/gguma-interview-with-lucas-howard.html</link>
+        <guid isPermaLink="true">http://localhost:4000/gguma-interview-with-lucas-howard.html</guid>
+        
+        <category>Reviews and Referrals</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>GGUMA Interview With Nick Waldner</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/3nkZ3YiiU3U?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Check out our interview with Nick Waldner of the Waldner Winters Team!&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://www.waldnerwintersteam.com&quot;&gt;Visit the Waldner Winters Team's website here&lt;/a&gt;&lt;/u&gt;!&lt;/p&gt;
+</description>
+        <pubDate>Wed, 15 Apr 2020 19:00:00 -0500</pubDate>
+        <link>http://localhost:4000/gguma-interview-with-nick-waldner.html</link>
+        <guid isPermaLink="true">http://localhost:4000/gguma-interview-with-nick-waldner.html</guid>
+        
+        <category>Reviews and Referrals</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>What Stood Out to Me at the KW Family Reunion</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Clws0LMqzzw?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;center&gt;I just got back from the KW Family Reunion, so I&amp;rsquo;m sharing the key points that stuck with me.&lt;/center&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;I just got back from the KW Family Reunion, and I heard a lot of insightful thoughts from many smart people. &lt;strong&gt;Today I’m going to quickly run through the top things that I took away from the event:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;1. The people that we need to build big, successful businesses are already in our database. The opportunity for growth is right there, so stop trying to reach for shiny objects and focus on your database. It all comes back to your database.&lt;/p&gt;
+
+&lt;p&gt;2. Focus on the people who matter. Have your ISAs set appointments where you can plug anyone into the system.&lt;/p&gt;
+
+&lt;p&gt;3. When you hire an underperformer, you’ve sold out everyone else on your team. If someone does underperform, you need to be the one setting the agenda for what we talk about at your weekly meetings.&lt;/p&gt;
+
+&lt;p&gt;4. To have an amazing sales business, you need an awesome admin team and lots of leads. Fill your admin team with replacement talent that you can bring up into bigger roles. If you don’t have enough leads, you run a huge risk of people leaving.&lt;/p&gt;
+
+&lt;p&gt;5. Stop trying to create opportunities for everyone in your world, because it’s exhausting. The talent will bring opportunities, and it’s your job to support it.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;In summary, make sure you’re seeing goals, creating plans to hire people, and holding people accountable to their plans and goals.&lt;/strong&gt; Inspect what you expect and when people start missing goals, don’t turn a blind eye. Jump in and either help them grow or let them go. &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=Your best sources of business are already in your database.%20http://localhost:4000/what-stood-out-to-me-at-the-kw-family-reunion.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“Your best sources of business are already in your database.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;If you have questions about my experience at the Family Reunion or anything else related to the real estate business, don’t hesitate to reach out and give me a call or send me an email. I look forward to hearing from you soon.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 24 Feb 2020 14:29:00 -0600</pubDate>
+        <link>http://localhost:4000/what-stood-out-to-me-at-the-kw-family-reunion.html</link>
+        <guid isPermaLink="true">http://localhost:4000/what-stood-out-to-me-at-the-kw-family-reunion.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Business Planning Clinic 2020</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/dSJDxxP30qQ?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;center&gt;You&amp;rsquo;re invited to attend Business Planning Clinic 2020, where we&amp;rsquo;ll walk you through the steps you need to take to set yourself up for success in 2020.&lt;/center&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;The New Year is just beginning so if you’re having trouble getting your real estate business launched and set up for success in 2020 fear not: You’re officially invited to our Business Planning Clinic on Thursday, Jan 30, at the Green Hills Library. The work you do now will pay dividends in the second and third quarters of this year, and this real estate business planning clinic will guide you on how to set goals and achieve them. If you have any questions at all, don’t hesitate to reach out to me. Promo code 2020BPC. You can RSVP for Business Planning Clinic 2020 by &lt;strong&gt;&lt;a href=&quot;https://www.eventbrite.com/e/real-estate-business-planning-clinic-tickets-75302005325&quot;&gt;using this link.&lt;/a&gt;&lt;/strong&gt; If you have any questions at all, don’t hesitate to reach out to me. I look forward to seeing you there.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+</description>
+        <pubDate>Mon, 06 Jan 2020 09:36:00 -0600</pubDate>
+        <link>http://localhost:4000/business-planning-clinic-2020.html</link>
+        <guid isPermaLink="true">http://localhost:4000/business-planning-clinic-2020.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>How I’m Using a Great Book to Teach My Clients About Investing</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/UUdtb4KlUcs?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;center&gt;I believe that we leave transactions on the table each year by not educating our clients about the benefits of real estate investing. Here&amp;rsquo;s how I&amp;rsquo;m trying to change that.&lt;/center&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;I just got done reading &lt;em&gt;“The Millionaire Real Estate Investor”&lt;/em&gt; for the third time, and I wanted to let you know about something from it that we’ve been implementing with our clients lately. We’ve been buying copies of the book and are giving it to our past clients, friends, family, and anyone else that might be curious about investing in residential real estate. I think that we’re leaving a handful of transactions a year on the table by not educating our clients about the many benefits of building wealth through investing in real estate. To learn more about this strategy, watch this short video.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 19 Dec 2019 13:33:00 -0600</pubDate>
+        <link>http://localhost:4000/how-im-using-a-great-book-to-teach-my-clients-about-investing.html</link>
+        <guid isPermaLink="true">http://localhost:4000/how-im-using-a-great-book-to-teach-my-clients-about-investing.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Josh Anderson's Journey</title>
+        <description>&lt;p&gt;Hear how Josh Anderson started his real estate journey, his tips for success, and his vision for the future with The Anderson Group Real Estate.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/cTutQkahNF8?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+</description>
+        <pubDate>Thu, 19 Dec 2019 08:00:00 -0600</pubDate>
+        <link>http://localhost:4000/josh-andersons-journey.html</link>
+        <guid isPermaLink="true">http://localhost:4000/josh-andersons-journey.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>The Entrepreneur Way</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/CfGejDyFsw4?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Originally from Nashville, Josh Anderson graduated from Louisiana State University in International Trade and Finance. Josh served 8 years in the U.S. Army, including a 10-month stint in Bagram, Afghanistan, during Operation Enduring Freedom. These experiences, coupled with the education he received from Louisiana State, have molded him into a focused, disciplined, and strong willed individual. Josh Anderson can best be described as a man of high energy with a passion for Nashville real estate. He is a business savvy professional with a strong desire to cater to his clients’ particular needs. Client satisfaction is paramount! Josh’s market expertise coupled with his superior negotiating skills set him apart from the rest.&lt;/p&gt;
+
+&lt;p&gt;Find out more here : http://theentrepreneurway.com/contact/ Get daily podcast interviews with successful entrepreneurs by clicking http://theentrepreneurway.com|The Entrepreneur Way&lt;/p&gt;
+</description>
+        <pubDate>Fri, 14 Jun 2019 15:46:00 -0500</pubDate>
+        <link>http://localhost:4000/the-entrepreneur-way.html</link>
+        <guid isPermaLink="true">http://localhost:4000/the-entrepreneur-way.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Josh Anderson on Show #108: Integration as the Secret to Success</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Itob4YH1cbg?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Originally from Nashville, Josh graduated from the Louisiana State University in international trade and finance. Josh served eight years in the U.S Army and can be described as someone with high energy and a strong passion for real estate.&lt;/p&gt;
+
+&lt;p&gt;In today’s interview, josh talks more about who he is, what he does and why he does it. To learn more, watch our latest video.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 16 Apr 2019 15:40:00 -0500</pubDate>
+        <link>http://localhost:4000/josh-anderson-on-show-108-integration-as-the-secret-to-success.html</link>
+        <guid isPermaLink="true">http://localhost:4000/josh-anderson-on-show-108-integration-as-the-secret-to-success.html</guid>
         
         
       </item>
