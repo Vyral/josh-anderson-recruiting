@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Are My Top Takeaways From MegaCamp 2019?
-date: 2020-10-29 15:27:06
+date: 2020-10-29 15:27:00
 tags:
 excerpt:
 enclosure:
@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: UERMqvmnf
+youtube_code: UERMqvmnf-g
 hidden: false
 ---
 
