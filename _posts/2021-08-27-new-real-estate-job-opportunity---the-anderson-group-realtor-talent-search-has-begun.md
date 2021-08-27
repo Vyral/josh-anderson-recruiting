@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /screen-shot-2021-07-29-at-1-03-54-pm-1.png
-youtube_code: Bb4feC5r7fQ&t=2s
+youtube_code: Bb4feC5r7fQ
 hidden: false
 ---
 {% include youtube.html %}
