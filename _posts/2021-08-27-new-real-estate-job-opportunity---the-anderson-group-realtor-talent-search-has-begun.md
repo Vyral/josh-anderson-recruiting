@@ -16,5 +16,3 @@ youtube_code: https://www.youtube.com/watch?v=Bb4feC5r7fQ&t=2s
 hidden: false
 ---
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Bb4feC5r7fQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
-
-&nbsp;
