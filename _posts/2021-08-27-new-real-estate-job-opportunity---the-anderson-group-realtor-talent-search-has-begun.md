@@ -31,7 +31,7 @@ https://www.joshandersonrealestate.com/blog/real-estate-job-opening-the-anderson
 
 Apply at the link below.👇
 
-[https://lnkd.in/gRND-ukg](https://lnkd.in/gRND-ukg)
+[https://bit.ly/TAG\_Careers](https://bit.ly/TAG_Careers){: target="_blank" rel="noopener"}
 
 &nbsp;
 
